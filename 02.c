@@ -45,7 +45,7 @@ int main()
       } 
       average_wait_time = wait_time * 1.0 / limit;
       average_turnaround_time = turnaround_time * 1.0 / limit;
-      printf("\n\nTotal Waiting Time:\t%d", wait_time); 
+      
       printf("\n\nAverage Waiting Time:\t%f", average_wait_time); 
       printf("\nAvg Turnaround Time:\t%f\n", average_turnaround_time); 
       return 0; 
