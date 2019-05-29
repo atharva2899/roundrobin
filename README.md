@@ -124,5 +124,3 @@ Actual Result:
 
 Conclusion: Hence from the test cases we conclude that if we want that all the processes should execute successfully then the arrival time of other process must be less than or equal to the completion time of the running processes. 
 
-GitHub Link: https://github.com/pankajsharma120
-Yes I have done revision of this question on GitHub 5 times and found the correct solution afterwards. 
